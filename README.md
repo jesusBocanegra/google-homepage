@@ -1,1 +1,1 @@
-# google-homepage
+This is my second try to make the mini project of The Odin Project. The first one was quite a mess and for that I decided to start from zero. Hopefully this time I have a little more of knowledge about what to do.
